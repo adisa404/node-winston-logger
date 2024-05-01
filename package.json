@@ -1,0 +1,26 @@
+{
+  "name": "node-winston-logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adisa404/node-winston-logger.git"
+  },
+  "author": "Adisa Mrvoljak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adisa404/node-winston-logger/issues"
+  },
+  "homepage": "https://github.com/adisa404/node-winston-logger#readme",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "@types/node": "^20.12.8",
+    "winston": "^3.13.0"
+  }
+}
